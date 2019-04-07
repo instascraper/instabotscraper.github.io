@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installation on Unix
-permalink: /docs/en/Installation_on_Unix/
+permalink: /en/Installation_on_Unix/
 ---
 
 # How to install and run the script on Unix? (Linux, macOS)
