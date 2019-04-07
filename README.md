@@ -1,17 +1,15 @@
 ---
 layout: page
 title: docs
-permalink: /
+permalink: /docs/
 ---
 
 
-# Instabot Documentation
+# Instagram Scraper Documentation
 
-Welcome to [Instabot](https://github.com/instagrambot/) Documentation! 
+Welcome to [Instagram Scraper](https://github.com/Instagram-scraper-with-autopost) Documentation! 
 
-Available languages: [🇬🇧](en/README.md) [🇷🇺](ru/README.md) [🇮🇹](it/README.md) [🇺🇦](ukr/README.md) [🇪🇸](es/README.md) [🇰🇷](kr/README.md)
-
-
+Available languages: [🇬🇧](en/)
 
 ## Contributing
 
