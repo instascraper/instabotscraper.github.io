@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Installation instructions on Windows
-permalink: /en/Installation_on_Windows/
+permalink: /docs/en/Installation_on_Windows/
 ---
 
 **Important! Read the instructions from start to finish, and then act! Good luck!**
