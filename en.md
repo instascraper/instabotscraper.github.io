@@ -1,7 +1,7 @@
 ---
 layout: page
 title: en
-permalink: /en/
+permalink: /docs/en/
 ---
 
 Instagram Scraper scrapes peoples images and only repost the images where a face is detected it also has [Instabot API](https://github.com/instagrambot/instabot) integrated. The script Written in Python 
