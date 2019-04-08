@@ -18,7 +18,7 @@ Instagram Scraper is a bot written in the Python language, which not only implem
 For error messages, use this [page](https://github.com/instagrambot/Instagram-scraper-with-autopost/issues) 
 
 
-If you have questions or would like to share your experience using Instagram Scraper, please write to our Telegram.[Telegram](https://t.me/instabotproject).
+If you have questions or would like to share your experience using Instagram Scraper, please write to our [Telegram](https://t.me/instabotproject).
 
 You can find answers to the most popular questions [here](https://github.com/instagrambot/Instagram-scraper-with-autopost).
 

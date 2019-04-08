@@ -7,7 +7,7 @@ permalink: /docs/
 
 # Instagram Scraper Documentation
 
-Welcome to [Instagram Scraper](https://github.com/Instagram-scraper-with-autopost) Documentation! 
+Welcome to [Instagram Scraper](https://github.com/instagrambot/Instagram-scraper-with-autopost) Documentation! 
 
 Available languages: [🇬🇧](en/)
 
