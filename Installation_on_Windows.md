@@ -28,6 +28,17 @@ b) Installing the Git Client:
 6. After installation, run the command line.
 7. At the command prompt, type.
 
+## Install Dblib
+Download dlip ‘.wheel’ file as ur system requirnment (use link bellow)
+download link : https://pypi.python.org/simple/dlib/
+
+```
+Open cmd navigate to dlib wheel file path and hit command
+pip install dlib_file_name.wheel
+```
+
+## Then run
+
 ``` bash
 git clone https://github.com/instagrambot/Instagram-scraper-with-autopost --recursive
 ```
@@ -37,7 +48,7 @@ cd Instagram-scraper-with-autopost
 ```
 
 ```
-sudo pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ```
